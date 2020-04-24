@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Fries",
+      "price": "80",
+      "typeId": 2,
+      "isSelected": false,
+      "image": "img/products/product-4.jpg",
+      "count": 0,
+      "newPrice": "80",
+      "id": 1
+    },
+    {
+      "name": "Burger",
+      "price": "90",
+      "typeId": 2,
+      "isSelected": false,
+      "image": "img/products/product-4.jpg",
+      "count": 0,
+      "newPrice": "90",
+      "id": 2
+    },
+    {
+      "name": "Coke",
+      "price": "99",
+      "typeId": 1,
+      "isSelected": false,
+      "image": "img/products/product-4.jpg",
+      "count": 0,
+      "newPrice": "99",
+      "id": 3
+    },
+    {
+      "name": "henloo",
+      "price": "34",
+      "typeId": 2,
+      "isSelected": false,
+      "image": "img/products/product-4.jpg",
+      "count": 0,
+      "newPrice": "34",
+      "id": 4
+    },
+    {
+      "name": "geg",
+      "price": "34",
+      "typeId": 1,
+      "isSelected": false,
+      "image": "img/products/product-4.jpg",
+      "count": 0,
+      "newPrice": "34",
+      "id": 5
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "top"
+    },
+    {
+      "id": 2,
+      "name": "jacket"
+    }
+  ]
+}
