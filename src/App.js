@@ -46,7 +46,7 @@ class App extends Component {
 
   handlePrice = (values) => {
     //setstate
-    this.setState({ priceRange: values });
+    this.setState({ priceRange: values, activePage: 1 });
   };
 
   handlePagination = (pageNumber) => {

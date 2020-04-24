@@ -15,7 +15,7 @@
       "price": "90",
       "typeId": 2,
       "isSelected": false,
-      "image": "img/products/product-4.jpg",
+      "image": "img/products/product-1.jpg",
       "count": 0,
       "newPrice": "90",
       "id": 2
@@ -25,7 +25,7 @@
       "price": "99",
       "typeId": 1,
       "isSelected": false,
-      "image": "img/products/product-4.jpg",
+      "image": "img/products/product-2.jpg",
       "count": 0,
       "newPrice": "99",
       "id": 3
@@ -35,7 +35,7 @@
       "price": "34",
       "typeId": 2,
       "isSelected": false,
-      "image": "img/products/product-4.jpg",
+      "image": "img/products/product-3.jpg",
       "count": 0,
       "newPrice": "34",
       "id": 4
@@ -45,10 +45,50 @@
       "price": "34",
       "typeId": 1,
       "isSelected": false,
-      "image": "img/products/product-4.jpg",
+      "image": "img/products/product-5.jpg",
       "count": 0,
       "newPrice": "34",
       "id": 5
+    },
+    {
+      "name": "ar",
+      "price": "22",
+      "typeId": 1,
+      "isSelected": false,
+      "image": "img/products/product-6.jpg",
+      "count": 0,
+      "newPrice": "22",
+      "id": 6
+    },
+    {
+      "name": "asdfgh",
+      "price": "43",
+      "typeId": 2,
+      "isSelected": false,
+      "image": "img/products/product-7.jpg",
+      "count": 0,
+      "newPrice": "43",
+      "id": 7
+    },
+    {
+      "name": "feqf",
+      "price": "12",
+      "typeId": 1,
+      "isSelected": false,
+      "image": "img/products/product-8.jpg",
+      "count": 0,
+      "newPrice": "12",
+      "id": 8
+    },
+    {
+      "name": "lolz",
+      "price": "12",
+      "typeId": 1,
+      "isSelected": false,
+      "image": "img/products/product-9.jpg",
+      "count": 0,
+      "newPrice": "12",
+      "id": 9
     }
   ],
   "types": [

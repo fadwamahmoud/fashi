@@ -28,7 +28,7 @@ class PostItem extends Component {
   };
   schema = {
     name: Joi.string().required().label("name"),
-    price: Joi.number().required().label("price"),
+    price: Joi.number().max(100).required().label("price"),
   };
 
   validateProperty = (property, propertyName) => {
@@ -86,7 +86,7 @@ class PostItem extends Component {
     e.preventDefault();
 
     if (this.validate()) {
-      const newImage = this.state.image;
+      let newImage = this.state.image;
       if (this.props.match.params.id == "add") {
         newImage = "img/products/product-4.jpg";
       }

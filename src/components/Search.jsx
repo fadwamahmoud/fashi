@@ -35,7 +35,7 @@ const Search = (props) => {
           <div className="col-lg-3 text-right col-md-3">
             <ul className="nav-right">
               <li className="cart-icon">
-                <a href="#">
+                <Link to="/shoppingCart">
                   <i
                     className={
                       props.count === 0
@@ -44,7 +44,7 @@ const Search = (props) => {
                     }
                   ></i>
                   <span>{props.count}</span>
-                </a>
+                </Link>
                 <div className="cart-hover">
                   <div className="select-items">
                     <table>
