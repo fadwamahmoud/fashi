@@ -83,12 +83,22 @@
     {
       "name": "lolz",
       "price": "12",
-      "typeId": 1,
+      "typeId": 2,
       "isSelected": false,
       "image": "img/products/product-9.jpg",
       "count": 0,
       "newPrice": "12",
       "id": 9
+    },
+    {
+      "name": "zdffgj",
+      "price": "45",
+      "typeId": 1,
+      "isSelected": false,
+      "image": "img/products/product-4.jpg",
+      "count": 0,
+      "newPrice": "45",
+      "id": 10
     }
   ],
   "types": [

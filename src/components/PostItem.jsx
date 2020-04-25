@@ -66,6 +66,7 @@ class PostItem extends Component {
     const data = { ...this.state };
     delete data.errors;
     delete data.typeId;
+    delete data.image;
     const result = Joi.validate(data, this.schema, { abortEarly: false });
     console.log(result.error);
     if (result.error) {
